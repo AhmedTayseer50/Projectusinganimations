@@ -1,0 +1,240 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+
+}
+.main {
+    display: flex;
+    background-color: #eaf2fb;
+
+}
+/* first commponnent */
+
+
+
+
+.first {
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+
+.first-left {
+    background-color: rgb(138,43,226);
+    padding: 10px 10px;
+    border-radius: 15px;
+    width: 100%;
+    height: 100%;
+}
+
+.img1 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.img1 img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+
+.img2 {
+    color: white;
+}
+.img2 h6{
+    margin-top: 15px;
+    padding: 0px;
+    margin-bottom: 15px;
+}
+
+
+.color {
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+/* second commponnent */
+
+.second {
+    margin-top: 20px;
+}
+
+.second-midel{
+    background-color: #48546d;
+    padding: 10px 10px;
+    border-radius: 15px;
+    height: 100%;
+    width: 100%;
+}
+
+.img3 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.img3 img {
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.img4 {
+    color: white;
+}
+
+
+
+.color1 {
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.color1 .parg {
+    margin-top: 20px;
+}
+
+/* third commponnet */
+
+
+.third {
+    margin-top: 20px;
+}
+
+.third-left{
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 15px;
+    height: 100%;
+    width: 100%;
+}
+
+
+.img4 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.img4 img {
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+
+.img5 {
+    color: black;
+}
+
+
+.color2 {
+    color: black;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.color2 .parg {
+    margin-top: 20px;
+}
+
+/* forth commponnent */
+
+
+.forth {
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+
+.forth-right {
+    background-color: #1b202e;
+    padding: 10px 10px;
+    border-radius: 15px;
+    width: 100%;
+    height: 100%;
+}
+
+.img10 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.img10 img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+
+.img20 {
+    color: white;
+}
+.img20 h6{
+    margin-top: 15px;
+    padding: 0px;
+    margin-bottom: 15px;
+}
+
+
+.colorr {
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+
+
+
+/* fifth commponnent */
+.right {
+    background: white ;
+    height: 925px;
+    width: 350px;
+    box-shadow: 10px 10px 5px 12px lightblue;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.right-parent{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.right-parent img{
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.chiled {
+    margin-top: 15px;
+    padding: 0px;
+    margin-bottom: 15px;
+}
+
+
+.paragraph {
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.A1{ 
+ padding: 10px 10px ;
+}
+
+.B1 {
+    padding: 10px 10px ;
+}
